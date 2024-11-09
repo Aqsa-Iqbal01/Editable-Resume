@@ -1,5 +1,4 @@
 
-// Get references to the form and display area
 const form = document.getElementById('resume-form') as HTMLFormElement;
 const resumeDisplayElement = document.getElementById('resume-display') as HTMLElement;
 
