@@ -1,4 +1,3 @@
-"use strict";
 
 // Get references to the form and display area
 const form = document.getElementById('resume-form') as HTMLFormElement;
